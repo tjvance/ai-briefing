@@ -1,0 +1,7 @@
+CONTEXT (paste into NotebookLM's source-guiding text, or keep as your own reference)
+
+I'm an ERP/D365 tech lead moving into applied-AI, Forward Deployed Engineer, and AI product roles — currently interviewing for an FDE role and an internal AI Solutions Consultant role, and targeting AI Product Management longer term. My moat is deep D365 F&O/X++ and the Azure AI stack, and I build on the Anthropic and OpenAI APIs (a project called SaidnDone), so model/pricing/deprecation changes are operationally relevant to me, not just news. For each source in this set, connect it to implications for an FDE, an AI consultant, or an aspiring AI PM with a D365/Azure background — e.g., what changes for a client engagement, what changes for my own API-based product, what's a defensible interview talking point. Skip generic AI explainers I'd already know. Prioritize "so what for someone deploying this" over "what is this."
+
+AUDIO OVERVIEW PROMPT (paste verbatim into NotebookLM's Customize field)
+
+You're making a ~15-minute briefing for one listener: an ERP/D365 tech lead moving into applied-AI, Forward Deployed Engineer, and AI product roles. For each source, don't just summarize — say why it matters for someone deploying AI into enterprise client environments, tying to D365/Azure, agentic systems, or AI product strategy where relevant. Skip background a practitioner already knows. Group by theme, not source-by-source. Be concrete and fast; cut filler and over-enthusiasm.
