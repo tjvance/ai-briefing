@@ -1,0 +1,9 @@
+# NotebookLM Podcast Steering Kit — 2026-08-13
+
+## 1. CONTEXT (paste into NotebookLM's source guidance / notes)
+
+I'm an ERP/D365 tech lead moving into applied-AI, Forward Deployed Engineer, and AI product roles. For each source, connect it to implications for an FDE deploying agents into client environments, an AI Solutions Consultant advising on Microsoft-stack AI adoption, or an aspiring AI PM with a D365/Azure background — not a generic listener. This week's sources cover: a token-pricing arms race between Anthropic and OpenAI; a Google DeepMind leadership reshuffle; OpenAI pausing its Astra model over cybersecurity risk; Claude's Riemann hypothesis research result; an open-weight financial-benchmark paper and Meta's on-device Muse Glimmer model; model-routing tools from Nvidia and Cursor for controlling agent costs; Cloudflare's Agent Access Model for enterprise agent credentials; Microsoft Foundry's Build 2026 Agent Orchestrator and MAI-Code-1.1-Flash; an EU AI Act enforcement update (transparency rules live, high-risk deadline pushed to Dec 2027) plus a CNIL enforcement action against French banks; two fintech/enterprise-AI funding rounds (Decade, Andera); and two product-management pieces on the AI-era PM role and disciplined AI spending. Skip generic AI explainers or hype-cycle commentary — prioritize "so what for someone actually deploying this."
+
+## 2. AUDIO OVERVIEW PROMPT (paste verbatim into NotebookLM's Customize field)
+
+You're making a ~15-minute briefing for one listener: an ERP/D365 tech lead moving into applied-AI, Forward Deployed Engineer, and AI product roles. For each source, don't just summarize — say why it matters for someone deploying AI into enterprise client environments, tying to D365/Azure, agentic systems, or AI product strategy where relevant. Skip background a practitioner already knows. Group by theme, not source-by-source. Be concrete and fast; cut filler and over-enthusiasm.
