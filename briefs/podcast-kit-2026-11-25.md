@@ -2,7 +2,7 @@
 
 ## 1. CONTEXT
 
-I'm an ERP/D365 tech lead moving into applied-AI, Forward Deployed Engineer, and AI product roles. For each item, connect it to what it means for an FDE, an AI consultant, or an aspiring AI PM with a D365/Azure background. Skip generic explainers and lead with "so what for someone deploying this." This week's threads: Anthropic is now a public company and enterprise buyers have more leverage; D365 Finance & Operations is now reachable through Copilot and Foundry is adding agent identity and on-tenant (AKS) deployment; regulators (FCA, OCC) are treating AI agents like accountable staff; the EU AI Act high-risk deadline slipped to Dec 2027; and labs and VCs are betting on forward-deployed adoption (OpenWorks, Sierra).
+I'm an ERP/D365 tech lead moving into applied-AI, Forward Deployed Engineer, and AI product roles. For each item, connect it to what it means for an FDE, an AI consultant, or an aspiring AI PM with a D365/Azure background. Skip generic explainers and lead with "so what for someone deploying this." This week's threads: regulators (FCA, OCC) and banks are treating AI agents like accountable staff with scoped credentials, logs and kill switches; OpenAI is paying for forward deployment into small businesses (OpenWorks) and VCs are paying up for agent companies that deploy their own engineers (Sierra, LangChain); Microsoft is adding Agent 365 cost management and cross-vendor agent connections (A2A, MCP) on top of D365 in Copilot; and Google is competing hard on price at both its mid and top model tiers.
 
 ## 2. AUDIO OVERVIEW PROMPT
 
