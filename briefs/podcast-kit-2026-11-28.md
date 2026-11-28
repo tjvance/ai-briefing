@@ -2,7 +2,7 @@
 
 ## 1. CONTEXT
 
-I'm an ERP/D365 tech lead moving into applied-AI, Forward Deployed Engineer, and AI product roles. My depth is in D365 F&O / X++ and the Azure AI stack, and I build on the Anthropic and OpenAI APIs. For each item, connect it to what it means for an FDE, an AI consultant, or an aspiring AI PM with a D365/Azure background. Skip generic explainers and focus on "so what for someone deploying this." This week's themes: model and API deprecation deadlines (Nov 30), Microsoft's Ignite agent push into Dynamics 365, frontier labs and well-funded startups converging on meeting intelligence, EU AI Act timing, and the FDE talent surge.
+I'm an ERP/D365 tech lead moving into applied-AI, Forward Deployed Engineer, and AI product roles. My depth is in D365 F&O / X++ and the Azure AI stack, and I build on the Anthropic and OpenAI APIs. For each item, connect it to what it means for an FDE, an AI consultant, or an aspiring AI PM with a D365/Azure background. Skip generic explainers and focus on "so what for someone deploying this." This week's themes: the Nov 30 API shutdown wave and vendor lock-in, finance regulators and banks setting liability rules for AI agents, document-AI and production-agent architecture, Microsoft paying partners to activate Copilot agents, and consolidation in meeting intelligence.
 
 ## 2. AUDIO OVERVIEW PROMPT (paste verbatim into Customize)
 
